@@ -1,6 +1,6 @@
 ### Teaching Resources 
 
-- Jesse Thomason's Course on [Grounding Natural Language](https://tinyurl.com/5f2de97f)
+- 
 - Yonatan Bisk's [Talking to Robots](https://talkingtorobots.com/11-851) Course
 - Daniel Fried and Yonatan Bisks' Course on [Multimodal Machine Learning](https://cmu-mmml.github.io)
 - Ray Mooney's Course on [Grounded Natural Language Processing](https://www.cs.utexas.edu/~mooney/gnlp)
@@ -40,6 +40,7 @@
 
 - Natural Language Processing (with focus on large language models)
 - Computer Vision and Grounding (multimodal machine learning)
+  - Jesse Thomason's Course on [Grounding Natural Language](https://tinyurl.com/5f2de97f) 
 - Spoken Dialogue Systems (incremental, multimodal)         
     
 **Human-Robot Interaction**

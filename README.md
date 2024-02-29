@@ -9,3 +9,48 @@
 - Natali Parde's Course on [Language and Vision](https://tinyurl.com/4nzb5nb5)
 - Matthew Marge's Course on [Dialogue Systems](https://tinyurl.com/56h946mp)
 
+
+## Suggested Coursework for SDS+HRI students
+
+**Math**
+- Calculus
+- Linear Algebra
+- Statistics
+- Probability and Information Theory
+- Differential Equations
+
+**Computer Science**
+
+- Data Structures
+- Algorithms
+- Distributed Systems
+
+**Robotics**
+
+- Morphology & Action Planning
+- Localization & Navigation
+
+**Data Science and Machine Learning**
+
+- Data Science (data analysis, munging, visualization)
+- Machine Learning
+- Deep Learning
+
+**Artificial Intelligence**
+
+- Natural Language Processing (with focus on large language models)
+- Computer Vision and Grounding (multimodal machine learning)
+- Spoken Dialogue Systems (incremental, multimodal)         
+    
+**Human-Robot Interaction**
+
+- Human-Robot Interaction
+ Scientific Methods (human subjects, evaluation)
+
+
+**Ethics and Inclusively**
+
+- Measuring Harm in Human-Robot Dialogue
+- Bias 
+- Efficiency and Environmental Cost
+- Accessibility 

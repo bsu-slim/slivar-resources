@@ -1,3 +1,5 @@
+This repo is meant to help bring together educational resources for robotics, human-robot interaction, machine learning, natural language processing, and spoken dialogue systems. The goal is to prepare students to gain skills to build systems where people can speak naturally with robots. 
+
 ## Suggested Coursework for SDS+HRI students
 
 **Math**
@@ -15,6 +17,7 @@
 
 **Robotics**
 
+- [Robotics Essentials](https://github.com/henki-robotics/robotics_essentials_ros2)
 - Morphology & Action Planning
 - Localization & Navigation
 

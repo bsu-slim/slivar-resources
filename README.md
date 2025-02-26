@@ -31,8 +31,9 @@ This repo is meant to help bring together educational resources for robotics, hu
 **Artificial Intelligence**
 
 - Natural Language Processing (with focus on large language models)
-  - Casey Kennington's [Natural Langauge Processing](https://trello.com/b/mRcVsOvI/boise-state-nlp-spring-2021-public) Course with focus on Comptutational Semantics
-  - Natali Parde's Course on [Language and Vision](https://tinyurl.com/4nzb5nb5)
+  - Casey Kennington's course on [Natural Langauge Processing](https://trello.com/b/mRcVsOvI/boise-state-nlp-spring-2021-public) Course with focus on Comptutational Semantics
+  - Natali Parde's course on [Language and Vision](https://tinyurl.com/4nzb5nb5)
+  - Zhou (Jo) Yu's course on [Natural Language Processing](https://docs.google.com/document/d/1hBrfzdk6Xjp_7ct-1M23tkm0IbPi9x_z5RvuHGPaEEM/edit?tab=t.0)
 - Computer Vision and Grounding (multimodal machine learning)
   - Jesse Thomason's Course on [Grounding Natural Language](https://tinyurl.com/5f2de97f) 
 - Spoken Dialogue Systems (incremental, multimodal)
